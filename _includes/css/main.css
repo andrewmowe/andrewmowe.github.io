@@ -93,8 +93,7 @@ header .container {
 header .img-responsive {
     display: block;
     margin: 0 auto 20px;
-    border-radius: 50%;
-    object-fit: cover;
+    border-radius: 25px;
 }
 
 header .intro-text .name {
