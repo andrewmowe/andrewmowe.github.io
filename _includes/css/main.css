@@ -90,10 +90,11 @@ header .container {
     padding-bottom: 50px;
 }
 
-header img {
+header .img-responsive {
     display: block;
     margin: 0 auto 20px;
-    border-radius: 20px;
+    border-radius: 50%;
+    object-fit: cover;
 }
 
 header .intro-text .name {
