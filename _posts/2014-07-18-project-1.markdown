@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2015-04-18
+img: GovLoop.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: April 2015
+client: GovLoop Academy
+category: Front End Development
+description: GovLoop was looking to add a learning platform to their WordPress site. The requirement was to make it white-label so they could sell it to clients as well as use a customized version on their own site. I worked on the front end architecture and coded several of the templates along with a large team at 10up. One of the main interactive features is a to-do list style app called the Action Plan. The site is an MVP of a very complex information architecture, but one that I'm very proud to have worked on.
 
 ---
