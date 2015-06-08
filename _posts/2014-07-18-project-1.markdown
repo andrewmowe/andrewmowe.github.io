@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2015-04-18
-img: GovLoop.png
+img: govloop-ap.png
 alt: image-alt
 project-date: April 2015
 client: GovLoop Academy
