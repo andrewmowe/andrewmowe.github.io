@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+date: 2014-08-17
+img: medicare.png
+alt: Medicare.com agent page
+project-date: August 2014
+client: E-health Insurance
+category: Front End Development
+description: E-Health Insurance came to 10up to create a brand new site to serve their Medicare clients. The goal was to create a place for clients to meet and interact with agents asynchronously. I led the front end team and the initial site architecture using WordPress, Sass, Susy, and Grunt. There was a very tight window for launch prior to the Medicare open enrollment season, but the team hit it out of the park and has continued to iterate with updates and improvements ever since.
 
 ---
