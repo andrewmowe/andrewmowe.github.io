@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2015-11-01
+img: tmi.png
+alt: TMI Consulting Inc.
+project-date: June 2015
+client: TMI Consulting Inc.
+category: Front End, WordPress
+description: I worked with Spencer of [Team Eight](http://team-eight.com) to create a redesign of the TMI website. I was the lead developer and worked closely (yet remotely) with Spencer to build out the components and put them all together.
+
+---
