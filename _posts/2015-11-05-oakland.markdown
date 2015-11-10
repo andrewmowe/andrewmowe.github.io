@@ -7,6 +7,6 @@ alt: City of Oakland Design Toolkit
 project-date: September 2015
 client: Code for America/City of Oakland
 category: Front End, Pattern Library
-description: For the City of Oakland's forthcoming redesign, they wanted a pattern library (aka pattern portfolio, aka styleguide, aka awesomesauce). This is by far my favorite way to start a project so I was thrilled at the opportunity. Working with the designers at <a href="http://www.objectivesubject.com/">Objective Subject</a>, we went above and beyond and delivered a very slick design toolkit. It features code snippets, a visual language guide, and philosophical treatises on the importance of tabs vs. spaces. Here's a link to the almost-complete staging site while they wrap up content on their end: <a href="http://oakland-primer.com/">CoO Design Toolkit</a>.
+description: For the City of Oakland's forthcoming redesign, they wanted a pattern library (aka pattern portfolio, aka styleguide, aka awesomesauce). This is by far my favorite way to start a project so I was thrilled at the opportunity. Working with the designers at <a href="http://www.objectivesubject.com/">Objective Subject</a>, we went above and beyond and delivered a very slick design toolkit. It features code snippets, a visual language guide, and philosophical treatises on the importance of tabs vs. spaces. Here's a link to the almost-complete <a href="http://oakland-primer.com/">staging site</a> while they wrap up content on their end.
 
 ---
